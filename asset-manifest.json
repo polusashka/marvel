@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/marvel/static/css/main.7aff16bd.chunk.css",
+    "main.css": "/marvel/static/css/main.d4f07076.chunk.css",
     "main.js": "/marvel/static/js/main.5f3e8907.chunk.js",
     "main.js.map": "/marvel/static/js/main.5f3e8907.chunk.js.map",
     "runtime-main.js": "/marvel/static/js/runtime-main.658e4565.js",
@@ -8,7 +8,7 @@
     "static/js/2.b330eb69.chunk.js": "/marvel/static/js/2.b330eb69.chunk.js",
     "static/js/2.b330eb69.chunk.js.map": "/marvel/static/js/2.b330eb69.chunk.js.map",
     "index.html": "/marvel/index.html",
-    "static/css/main.7aff16bd.chunk.css.map": "/marvel/static/css/main.7aff16bd.chunk.css.map",
+    "static/css/main.d4f07076.chunk.css.map": "/marvel/static/css/main.d4f07076.chunk.css.map",
     "static/js/2.b330eb69.chunk.js.LICENSE.txt": "/marvel/static/js/2.b330eb69.chunk.js.LICENSE.txt",
     "static/media/mjolnir.61f31e18.png": "/marvel/static/media/mjolnir.61f31e18.png",
     "static/media/vision.067d4ae1.png": "/marvel/static/media/vision.067d4ae1.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.658e4565.js",
     "static/js/2.b330eb69.chunk.js",
-    "static/css/main.7aff16bd.chunk.css",
+    "static/css/main.d4f07076.chunk.css",
     "static/js/main.5f3e8907.chunk.js"
   ]
 }
