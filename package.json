@@ -2,7 +2,7 @@
   "name": "marvel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/polusashka/polusashka.githab.io",
+  "homepage": "https://polusashka.github.io/marvel",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
